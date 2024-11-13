@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practice App</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name:</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="y_o_b">Y.O.B:</string>
+    <string name="enter_year_you_were_born">Enter year you were born</string>
+    <string name="accept_terms_and_conditions">Accept Terms and Conditions</string>
+    <string name="calculate_age">CALCULATE AGE</string>
+    <string name="display_activity">Display Activity</string>
+    <string name="image_to_display">Image to display</string>
+    <string name="this_is_the_display_activity_description">This is the display activity description.</string>
+    <string name="back">Back</string>
+</resources>
